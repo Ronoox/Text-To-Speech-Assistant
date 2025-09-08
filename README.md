@@ -33,5 +33,5 @@ The application includes built-in stories for listening, allows fetching additio
 
 *The API integration feature: fetches a random story from the web, parses the JSON response, and displays it in the app’s UI.*
 
-![API integration code](assets/api_integration.png)
+![API integration code](assets/API_integration.png)
 
