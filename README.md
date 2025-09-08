@@ -27,10 +27,11 @@ The application includes built-in stories for listening, allows fetching additio
 
 ## 📷 Screenshots
 
-> *(Add 1–2 images here for better presentation, for example:)*
+*Main application window showcasing the Text-to-Speech controls and story management features.*
 
-- **UI Screenshot** – the main application window with controls (Play, Save, API fetch).  
-- **Code Snippet** – a C# method that triggers the Text-to-Speech functionality.  
+![App UI](assets/TTSapp.png)
+
+*The API integration feature: fetches a random story from the web, parses the JSON response, and displays it in the app’s UI.*
 
 ![API integration code](assets/api_integration.png)
 
