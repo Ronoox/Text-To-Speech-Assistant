@@ -32,6 +32,5 @@ The application includes built-in stories for listening, allows fetching additio
 - **UI Screenshot** – the main application window with controls (Play, Save, API fetch).  
 - **Code Snippet** – a C# method that triggers the Text-to-Speech functionality.  
 
-To embed an image in the README:  
-```markdown
-[App Screenshot](assets/TTSapp.png)
+![API integration code](assets/api_integration.png)
+
