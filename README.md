@@ -35,3 +35,5 @@ The application includes built-in stories for listening, allows fetching additio
 
 ![API integration code](assets/API_integration.png)
 
+This project is licensed under the MIT License. See the LICENSE file for details.
+
