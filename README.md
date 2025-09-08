@@ -34,4 +34,4 @@ The application includes built-in stories for listening, allows fetching additio
 
 To embed an image in the README:  
 ```markdown
-![App Screenshot](assets/app_ui.png)
+[App Screenshot](assets/TTSapp.png)
